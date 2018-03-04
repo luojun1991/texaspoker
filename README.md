@@ -1,0 +1,2 @@
+# texaspoker
+texaspoker compare card
